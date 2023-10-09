@@ -1,5 +1,11 @@
 # React - NestJs ԅ(≖‿≖ԅ)
 
+**Install**
+
+```
+git clone https://github.com/heaveless/simple-reactjs-nestjs.git
+```
+
 **backend**
 
 - NestJs
